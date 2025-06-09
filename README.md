@@ -59,23 +59,6 @@ npm run dev
 
 ---
 
-## 🏗️ Estrutura do Projeto
-
-recipe-app/
-├── public/
-│ ├── screenshot-ingredientes.png
-│ └── screenshot-receita.png
-├── src/
-│ ├── components/
-│ ├── App.jsx
-│ └── main.jsx
-├── .env
-├── package.json
-├── vite.config.js
-└── README.md
-
----
-
 ## ▶️ Como rodar o projeto localmente
 
 ### 1. Clone o repositório
